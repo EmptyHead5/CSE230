@@ -1,0 +1,17 @@
+性能 (Performance)
+响应时间 (Response Time)
+吞吐量 (Throughput)
+执行时间 (Execution Time)
+CPU 执行时间 (CPU Time)
+用户 CPU 时间 (User CPU Time)
+系统 CPU 时间 (System CPU Time)
+时钟周期 (Clock Cycle)
+时钟周期时间 (Clock Cycle Time)
+时钟频率 (Clock Frequency)
+每条指令的时钟周期数 (CPI) (Cycles Per Instruction, CPI)
+指令数 (Instruction Count)
+程序 (Program)
+指令集架构 (Instruction Set Architecture, ISA)
+性能方程 (Performance Equation)
+
+CPU 时间=指令数×每条指令的 CPI×时钟周期时间
