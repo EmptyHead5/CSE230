@@ -1,0 +1,26 @@
+1951年：真空管（Vacuum Tube），性能单位成本为 1。
+1965年：晶体管（Transistor），性能单位成本提升至 35。
+1975年：集成电路（Integrated Circuit，IC），性能单位成本提升至 900。
+1995年：超大规模集成电路（Very Large-Scale Integrated Circuit，VLSI），性能单位成本提升至 2,400,000。
+2020年：超大型集成电路（Ultra Large-Scale Integrated Circuit，ULSI），性能单位成本提升至 500,000,000,000
+基本概念：
+
+硅（Silicon）：一种天然元素，作为半导体（Semiconductor）。
+半导体（Semiconductor）：不良导电材料，通过化学工艺可以改变其导电性。
+制造步骤：
+
+硅晶圆锭（Silicon Crystal Ingot）：直径8-12英寸，长度12-24英寸。
+晶圆（Wafer）：从硅晶圆锭中切割的厚度不超过0.1英寸的薄片。
+图案化晶圆（Patterned Wafer）：经过20至40个化学处理步骤后得到的晶圆。
+测试晶圆（Wafer Tester）：用于检查图案化晶圆的合格区域。
+切片（Dicing）：将晶圆切割成多个小块，称为芯片（Die）或更通俗地称为“芯片”（Chip）。
+封装（Bonding）：将合格的芯片连接到封装的输入/输出引脚。
+最终测试（Final Testing）：测试封装后的芯片，确保没有包装过程中的错误。
+
+良品率（Yield）：
+
+良品率（Yield）：每片晶圆中合格芯片的百分比。
+缺陷（Defect）：晶圆或图案化步骤中的微小缺陷，可能导致芯片失败。
+成本因素：
+
+制造成本（Cost）与市场价格（Price）：生产成本与市场价格之间存在差异，市场价格通常会根据供需关系调整。
