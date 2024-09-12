@@ -1,0 +1,4 @@
+MIPS使用32位地址空间，这意味着能够访问的地址范围是2^32，
+  word(字）：作为MIPS的一个固定长度的数据单位，在MIPS内，一个word是四个字节Byte，也就是32位（bit）
+  1word=4byte
+  1byte=8bit
